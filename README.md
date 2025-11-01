@@ -26,7 +26,7 @@ Each button represents a specific drum sound. When you click or press a key:
 ---
 
 ## 📸 Preview
-![Drum Kit Screenshot](images/tom1.png)
+![Drum Kit Screenshot](images/WebPage.png)
 
 ---
 
